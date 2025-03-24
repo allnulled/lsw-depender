@@ -33,4 +33,4 @@ class LswDepender {
 
 # Conclusion
 
-For now, this is not a virtuous package in the domain. Just to pack on the same place the utilities needed for the way.
+This is a package used to pack some utilities. It is not used in the project right now.
